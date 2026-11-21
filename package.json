@@ -1,5 +1,5 @@
 {
-  "name": "invenorder",
+  "name": "inven_order",
   "version": "1.0.0",
   "description": "InvenOrder — Full-stack inventory & order management with AI-powered smart search",
   "scripts": {
